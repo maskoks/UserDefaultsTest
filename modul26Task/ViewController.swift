@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     var switchState = false
     let lightPicture = UIImage(named: "light")
     let darkPicture = UIImage(named: "dark")
+    let check = "Check"
     
     let defaults = UserDefaults.standard
     
